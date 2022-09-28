@@ -8,7 +8,7 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
-		return "Gitlab to GitHub migration!!!";
+		return "Gitlab to GitHub migration";
 	}
 
 }
